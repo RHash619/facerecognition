@@ -1,6 +1,6 @@
 # ECE 196 - Face Recognition
 
-Author: Will Chen
+Author:Abdulfatah
 Updated: Simon Fong June 24, 2018
 
 This is the official code provided for the ECE196 Face Recognition project.
